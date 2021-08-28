@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uciharis
-- 👀 I’m interested in dart
-- 🌱 I’m currently learning also dart
-- 💞️ I’m looking to collaborate on flutter
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning also Python
+- 💞️ I’m looking mentor of python
 - 📫 How to reach me is knocking my email --> 
 
 <!---
