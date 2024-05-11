@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @uciharis
 - 👀 I’m interested in Python & Javascript
-- 🌱 I’m currently learning also Python & Javascript
 
 <!---
 uciharis/uciharis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
